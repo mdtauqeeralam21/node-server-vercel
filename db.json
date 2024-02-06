@@ -1,0 +1,74 @@
+{
+  "alumnis": [
+    {
+      "id": 1,
+      "fullName": "Faizan",
+      "yearOfPassed": 2022,
+      "email": "faizan@gmail.com",
+      "degree": "Engineering",
+      "branch": "Computer Science",
+      "photoUrl": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "helllo worldsss"
+    },
+    {
+      "id": 2,
+      "fullName": "Yousuf",
+      "yearOfPassed": 2022,
+      "email": "Yousuf@gmail.com",
+      "degree": "Science",
+      "branch": "Automobile",
+      "photoUrl": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "helllo worldsss"
+    },
+    {
+      "fullName": "Ahmed",
+      "email": "ahmed@gmail.com",
+      "degree": "Science",
+      "branch": "Physics",
+      "yearOfPassed": "2020",
+      "photoUrl": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing.",
+      "id": 3
+    },
+    {
+      "fullName": "Rheaas",
+      "email": "rheas@gmail.com",
+      "degree": "Arts",
+      "branch": "Literature",
+      "yearOfPassed": "2019",
+      "description": "hello rheaaaaaa",
+      "photoUrl": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "id": 4
+    },
+    {
+      "fullName": "Hamaad",
+      "email": "faizkhan@gmail.com",
+      "degree": "Arts",
+      "branch": "Literature",
+      "yearOfPassed": "2019",
+      "description": "hello hamaad",
+      "photoUrl": "https://images.pexels.com/photos/36717/amazing-animal-beautiful-beautifull.jpg?auto=compress&cs=tinysrgb&w=600",
+      "id": 5
+    },
+    {
+      "fullName": "Yahya",
+      "yearOfPassed": 2024,
+      "email": "Yahya@gmail.com",
+      "degree": "Electrical",
+      "branch": "Automobile",
+      "photoUrl": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "helllo world",
+      "id": 6
+    },
+    {
+      "fullName": "Fawad",
+      "yearOfPassed": 2024,
+      "email": "fawad@gmail.com",
+      "degree": "Medical",
+      "branch": "Surgeon",
+      "photoUrl": "https://images.pexels.com/photos/60597/dahlia-red-blossom-bloom-60597.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "description": "helllo world",
+      "id": 7
+    }
+  ]
+}
